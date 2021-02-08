@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="BookControllerIntegreTest" project="book-backend" tests="5" started="5" failures="0" errors="0" ignored="0">
+  <testsuite name="com.cos.book.web.BookControllerIntegreTest" time="0.699" displayname="BookControllerIntegreTest" uniqueid="[engine:junit-jupiter]/[class:com.cos.book.web.BookControllerIntegreTest]">
+    <testcase name="save_테스트" classname="com.cos.book.web.BookControllerIntegreTest" time="0.442" displayname="save_테스트()" uniqueid="[engine:junit-jupiter]/[class:com.cos.book.web.BookControllerIntegreTest]/[method:save_테스트()]"/>
+    <testcase name="update_테스트" classname="com.cos.book.web.BookControllerIntegreTest" time="0.043" displayname="update_테스트()" uniqueid="[engine:junit-jupiter]/[class:com.cos.book.web.BookControllerIntegreTest]/[method:update_테스트()]"/>
+    <testcase name="findAll_테스트" classname="com.cos.book.web.BookControllerIntegreTest" time="0.16" displayname="findAll_테스트()" uniqueid="[engine:junit-jupiter]/[class:com.cos.book.web.BookControllerIntegreTest]/[method:findAll_테스트()]"/>
+    <testcase name="findById_테스트" classname="com.cos.book.web.BookControllerIntegreTest" time="0.022" displayname="findById_테스트()" uniqueid="[engine:junit-jupiter]/[class:com.cos.book.web.BookControllerIntegreTest]/[method:findById_테스트()]"/>
+    <testcase name="delete_테스트" classname="com.cos.book.web.BookControllerIntegreTest" time="0.032" displayname="delete_테스트()" uniqueid="[engine:junit-jupiter]/[class:com.cos.book.web.BookControllerIntegreTest]/[method:delete_테스트()]"/>
+  </testsuite>
+</testrun>
